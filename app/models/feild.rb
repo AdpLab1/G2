@@ -1,0 +1,2 @@
+class Feild < ApplicationRecord
+end
